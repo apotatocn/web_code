@@ -100,7 +100,7 @@ ignore:
 # 主题
 # 3-hexo更新
 # cd themes/3-hexo & git pull
-theme: 3-hexo
+theme: hexo3
 
 # Deployment
 # hexo d 部署方式

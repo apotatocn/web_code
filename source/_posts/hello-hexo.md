@@ -1,6 +1,7 @@
 ---
 title: hello hexo
-date: 2023-08-25 11:20:19
+categories:
+  - [Hexo, HelloWorld2]
 tags: Hexo
 ---
 
